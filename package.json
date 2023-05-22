@@ -1,0 +1,27 @@
+{
+  "name": "navbar-login",
+  "version": "0.0.0",
+  "description": "navbar-login",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostr-components/navbar-login.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostr-components/navbar-login/issues"
+  },
+  "homepage": "https://github.com/nostr-components/navbar-login#readme",
+  "dependencies": {
+  }
+}
