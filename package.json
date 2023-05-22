@@ -1,6 +1,6 @@
 {
   "name": "navbar-login",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "navbar-login",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/nostr-components/navbar-login/issues"
   },
   "homepage": "https://github.com/nostr-components/navbar-login#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
