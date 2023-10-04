@@ -1,5 +1,5 @@
 import { html, render } from '../js/standalone.module.js'
-import Navbar from '../lib/index.js'
+import Navbar from '../lib/navbar2.js'
 
 render(html`<${Navbar}
 links=${[
